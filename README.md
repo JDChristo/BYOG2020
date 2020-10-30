@@ -2,6 +2,6 @@
 
 **Contributer** : 
 ---
-1. [Andrew David](https://github.com/Kangrew)
-2. [Jerrin Thomas](https://github.com/JDChristo)
+- [Andrew David](https://github.com/Kangrew)
+- [Jerrin Thomas](https://github.com/JDChristo)
 
